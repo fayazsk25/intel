@@ -1,0 +1,11 @@
+nodes:
+chefnodes12345
+adding runlist
+knife node run_list add chefnodes12345
+
+buildandrelease16@gmail.com
+buildandrelease123
+
+oracle 11g
+orcl
+Passw0rd
